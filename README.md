@@ -1,0 +1,4 @@
+puppet-mcollective
+==================
+
+puppet-mcollective
